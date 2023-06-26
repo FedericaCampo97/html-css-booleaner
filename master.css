@@ -1,12 +1,14 @@
 body {
     margin: auto;
     width: 1200px;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 .sfondo {
     background-color: rgb(50, 190, 209);
     height: 120px;  
     background-image: url(./img/pattern.png);
+    background-size: 450px;
 }
 #primaimg {
     height: 120px;
@@ -14,6 +16,9 @@ body {
 }
 #booleaner {
     color: rgb(40, 182, 182);
+}
+#data{
+    font-size: 11px;
 }
 #titolo {
     font-size: 40px;
@@ -44,5 +49,25 @@ thead{
 }
 .colorline{
     background-color: rgba(48, 230, 230, 0.651);
+}
+h3 {
+    color: rgb(206, 83, 206);
+}
+#bloccofinale1{
+    background-image: url(./img/monitor.jpg);
+    width: 250px;
+    height: 170px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 20px;
+    padding: 18px;
+}
+#bloccofinale2{
+    background-image: url(./img/graph.jpg);
+    width: 250px;
+    height: 170px;
+    color: white;
+    font-size: 20px;
+    padding: 18px;
 }
 
