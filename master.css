@@ -1,0 +1,48 @@
+body {
+    margin: auto;
+    width: 1200px;
+}
+
+.sfondo {
+    background-color: rgb(50, 190, 209);
+    height: 120px;  
+    background-image: url(./img/pattern.png);
+}
+#primaimg {
+    height: 120px;
+    width: 180px;
+}
+#booleaner {
+    color: rgb(40, 182, 182);
+}
+#titolo {
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#didascalia {
+    margin-top: 0px;
+    font-size: 11px;
+}
+.sottolineare {
+    background-color: yellow;
+}
+ul {
+    padding-left: 13px;
+}
+.widthline {
+    width: 300px
+}
+table{
+    border-spacing: 0px;
+}
+thead{
+    background-color: rgba(35, 107, 175, 0.712);
+    color: white;
+    text-align: left;
+}
+.colorline{
+    background-color: rgba(48, 230, 230, 0.651);
+}
+
